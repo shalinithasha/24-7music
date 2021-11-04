@@ -12,7 +12,7 @@
 [![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/safothebot)
 
 
-An Telegram Bot to Play Nonstop Radio/Music in Channel or Group Voice Chats.
+An Telegram Bot to Play Nonstop Radio/Music in Channel or Group Voice Chats made by chandas.
 
 This is also the source code of the bot which is being used for playing
 Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](https://t.me/safothebot) Group.
